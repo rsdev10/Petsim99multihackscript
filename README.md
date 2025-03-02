@@ -1,3 +1,6 @@
+loadstring(game:HttpGet(https://github.com/rsdev10/Petsim99multihackscript.git))()
+
+
 fully working pet sim 99 script undetectable
 only has a few features currently will be updated in the next few days
 
